@@ -14,10 +14,10 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Horizon",
+  title: "UniverSal",
   description: "Horizon is the future of virtual transactions",
   icons: {
-    icon:'/icons/logo.svg'
+    icon:'/icons/UniverSalBankingLogo.svg'
   }
 };
 
